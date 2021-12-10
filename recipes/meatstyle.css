@@ -1,0 +1,31 @@
+
+.pgtitle{
+  
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+
+.sphead{
+    background-color: rgba(47, 46, 53, 0.144);
+    color: chocolate;
+    padding:3px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 700px;
+    font-size: 3rem;
+    text-transform: capitalize; 
+    display: flex;
+    justify-content:center;
+}
+
+.imghead{
+    display: flex;
+    justify-content: center;
+}
+
+hr{
+    max-width:  70%;;
+    margin: auto;
+    border:3px solid rgba(24, 128, 226, 0.76) ;
+    border-radius: 5px;
+}
